@@ -1,0 +1,7 @@
+{
+    "tick_volume": 0.5,
+    "alarm_volume": 0.5,
+    "tick_sound_path": null,
+    "alarm_sound_path": null,
+    "appearance_mode": "System"
+}
